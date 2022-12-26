@@ -15,6 +15,6 @@ public class Atest {
 
 		System.out.println("가나다");
 		System.out.println("새로운내용");
-		System.out.println("깃 허브에 반영할 내용");
+		System.out.println("이상하네");
 	}
 }
