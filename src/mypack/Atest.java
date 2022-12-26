@@ -12,7 +12,9 @@ public class Atest {
 		//메서드를 호출
 		a.work1();
 		a.work2(10);
+
 		System.out.println("가나다");
 		System.out.println("새로운내용");
+		System.out.println("깃 허브에 반영할 내용");
 	}
 }
