@@ -13,5 +13,6 @@ public class Atest {
 		a.work1();
 		a.work2(10);
 		System.out.println("가나다");
+		System.out.println("새로운내용");
 	}
 }
